@@ -1,6 +1,6 @@
 # TitanFall2 Movement
 
-I replicated the Titan Fall 2 movement mechanics in Unreal Engine 4. 
+I replicated the Titan Fall 2 movement mechanics in Unreal Engine 4 (Version 4.27). 
 
 ## System
 - Sliding on leveled surface
